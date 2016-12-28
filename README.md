@@ -1,4 +1,4 @@
-# Pimatic-Switch-for-Samsung-Smartthings
+# Pimatic-Switch-for-Samsung-Smartthings (will cleanup later :)
 Connecting Pimatic switches to a Samsung SmartHub
 
 I wanted to buy IoT switches for my ST Hub but found out that there's an alternative which is WAY WAY cheaper. Buy RF-433 switches, buy a Raspberry PI, buy a (cheap) transmitter and hook that up to the GPIO.
